@@ -1,0 +1,15 @@
+# airport one-way sign
+obj=roadsign
+name=AirOneWay
+copyright=Reytm2
+single_way=1
+cost=500
+waytype=air
+intro_year = 1940
+intro_month = 3
+Image[0]=AirOneWay.0.0
+Image[1]=AirOneWay.0.1
+Image[2]=AirOneWay.0.2
+Image[3]=AirOneWay.0.3
+icon=> AirOneWay.0.4
+cursor=AirOneWay.0.5

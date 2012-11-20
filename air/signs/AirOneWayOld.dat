@@ -1,0 +1,15 @@
+# airport one-way sign
+obj=roadsign
+name=AirOneWayOld
+copyright=An_dz
+single_way=1
+cost=500
+waytype=air
+intro_year=1917
+intro_month=3
+Image[0]=AirOneWayOld.0.0
+Image[1]=AirOneWayOld.0.1
+Image[2]=AirOneWayOld.0.2
+Image[3]=AirOneWayOld.0.3
+icon=> AirOneWayOld.0.4
+cursor=AirOneWayOld.0.5
