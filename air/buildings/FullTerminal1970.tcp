@@ -1,0 +1,180 @@
+{
+    "comment": "This is a TileCutter Project file (JSON formatted). You may edit it by hand if you are careful.", 
+    "data": {
+        "dat": {
+            "dat_lump": "obj=building\ntype=extension\nwaytype=air\nname=FullTerminal1970\ncopyright=Reytm2 & An_dz\nnoinfo=1\nenables_pax=1\nenables_post=1\nenables_ware=1\nlevel=4\nintro_year=1970\nintro_month=2"
+        }, 
+        "dims": {
+            "directions": 4, 
+            "frames": 1, 
+            "frontimage": 0, 
+            "paksize": 96, 
+            "winter": 1, 
+            "x": 1, 
+            "y": 3, 
+            "z": 1
+        }, 
+        "files": {
+            "datfile_location": "FullTerminal1970.before.dat", 
+            "datfile_write": true, 
+            "pakfile_location": "", 
+            "pngfile_location": "FullTerminal1970.before.png"
+        }, 
+        "images": [
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                192, 
+                                0
+                            ], 
+                            "path": "FullTerminal1970-nocut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                576, 
+                                0
+                            ], 
+                            "path": "FullTerminal1970-nocut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ]
+            ], 
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                192
+                            ], 
+                            "path": "FullTerminal1970-nocut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                384, 
+                                192
+                            ], 
+                            "path": "FullTerminal1970-nocut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ]
+            ], 
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                192, 
+                                192
+                            ], 
+                            "path": "FullTerminal1970-nocut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                576, 
+                                192
+                            ], 
+                            "path": "FullTerminal1970-nocut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ]
+            ], 
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "FullTerminal1970-nocut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                384, 
+                                0
+                            ], 
+                            "path": "FullTerminal1970-nocut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ]
+            ]
+        ]
+    }, 
+    "type": "TCP_JSON", 
+    "version": "0.6.1"
+}

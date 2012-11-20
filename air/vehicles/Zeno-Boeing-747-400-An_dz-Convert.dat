@@ -1,0 +1,27 @@
+#Min tiles for takeoff: 7
+obj=vehicle
+waytype=air
+name=Boeing747-400
+copyright=Zeno & An_dz
+freight=Passagiere
+payload=524
+speed=910
+power=201000
+gear=19
+cost=265000000
+runningcost=8000
+intro_year=1989
+intro_month=2
+weight=179
+engine_type=diesel
+smoke=-1
+Constraint[Prev][0]=none
+Constraint[Next][0]=none
+EmptyImage[W]=Zeno-Boeing-747-400-An_dz-Convert.0.0
+EmptyImage[NW]=Zeno-Boeing-747-400-An_dz-Convert.0.1
+EmptyImage[N]=Zeno-Boeing-747-400-An_dz-Convert.0.2
+EmptyImage[NE]=Zeno-Boeing-747-400-An_dz-Convert.0.3
+EmptyImage[E]=Zeno-Boeing-747-400-An_dz-Convert.0.4
+EmptyImage[SE]=Zeno-Boeing-747-400-An_dz-Convert.0.5
+EmptyImage[S]=Zeno-Boeing-747-400-An_dz-Convert.0.6
+EmptyImage[SW]=Zeno-Boeing-747-400-An_dz-Convert.0.7

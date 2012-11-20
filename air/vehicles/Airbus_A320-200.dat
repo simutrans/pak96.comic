@@ -1,0 +1,27 @@
+#Min tiles for takeoff: 8
+obj=vehicle
+waytype=air
+name=Airbus_A320-200
+copyright=Reytm2
+freight=Passagiere
+payload=164
+speed=840
+power=78624
+gear=10
+cost=178500000
+runningcost=5555
+intro_year=1987
+intro_month=2
+weight=42
+engine_type=diesel
+smoke=-1
+Constraint[Next][0]=none
+Constraint[Prev][0]=none
+EmptyImage[E]=Airbus_A320-200.0.2
+EmptyImage[SE]=Airbus_A320-200.0.1
+EmptyImage[S]=Airbus_A320-200.0.0
+EmptyImage[SW]=Airbus_A320-200.0.7
+EmptyImage[W]=Airbus_A320-200.0.6
+EmptyImage[NW]=Airbus_A320-200.0.5
+EmptyImage[N]=Airbus_A320-200.0.4
+EmptyImage[NE]=Airbus_A320-200.0.3

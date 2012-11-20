@@ -1,0 +1,27 @@
+#Min tiles for takeoff: 8
+obj=vehicle
+waytype=air
+name=Ilyushin_IL-96-300
+copyright=Reytm2
+freight=Passagiere
+payload=263
+speed=860
+power=220160
+gear=9
+cost=184800000
+runningcost=10000
+intro_year=1988
+intro_month=9
+weight=121
+engine_type=diesel
+smoke=-1
+Constraint[Next][0]=none
+Constraint[Prev][0]=none
+EmptyImage[E]=Ilyushin_il-96-300.0.2
+EmptyImage[SE]=Ilyushin_il-96-300.0.1
+EmptyImage[S]=Ilyushin_il-96-300.0.0
+EmptyImage[SW]=Ilyushin_il-96-300.0.7
+EmptyImage[W]=Ilyushin_il-96-300.0.6
+EmptyImage[NW]=Ilyushin_il-96-300.0.5
+EmptyImage[N]=Ilyushin_il-96-300.0.4
+EmptyImage[NE]=Ilyushin_il-96-300.0.3
