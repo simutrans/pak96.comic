@@ -202,7 +202,7 @@ freightimagetype[0]=Sand
 freightimagetype[1]=Kohle
 freightimagetype[2]=Erz
 freightimagetype[3]=Getreide
-#freightimagetype[4]=Uranium
+freightimagetype[4]=Uranium
 freightimage[0][S]=VMaX_Arboria_BulkGoods.2.2
 freightimage[0][W]=VMaX_Arboria_BulkGoods.2.3
 freightimage[0][SW]=VMaX_Arboria_BulkGoods.2.0
@@ -219,10 +219,10 @@ freightimage[3][S]=VMaX_Arboria_BulkGoods.0.2
 freightimage[3][W]=VMaX_Arboria_BulkGoods.0.3
 freightimage[3][SW]=VMaX_Arboria_BulkGoods.0.0
 freightimage[3][SE]=VMaX_Arboria_BulkGoods.0.1
-#freightimage[4][S]=VMaX_Arboria_BulkGoods.1.2
-#freightimage[4][W]=VMaX_Arboria_BulkGoods.1.3
-#freightimage[4][SW]=VMaX_Arboria_BulkGoods.1.0
-#freightimage[4][SE]=VMaX_Arboria_BulkGoods.1.1
+freightimage[4][S]=VMaX_Arboria_BulkGoods.1.2
+freightimage[4][W]=VMaX_Arboria_BulkGoods.1.3
+freightimage[4][SW]=VMaX_Arboria_BulkGoods.1.0
+freightimage[4][SE]=VMaX_Arboria_BulkGoods.1.1
 ---------------------
 #Bars Waggon Arboria
 obj=vehicle

@@ -1,7 +1,7 @@
-Obj=way
-Name=LocAirTaxiway
+obj=way
 waytype=air
 system_type=0
+name=LocAirTaxiway
 copyright=Reytm2
 cost=14000
 maintenance=100

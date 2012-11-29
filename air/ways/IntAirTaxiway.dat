@@ -1,8 +1,8 @@
 obj=way
-name=IntAirTaxiway
-copyright=An_dz
 waytype=air
 system_type=0
+name=IntAirTaxiway
+copyright=An_dz
 cost=17000
 maintenance=100
 topspeed=60

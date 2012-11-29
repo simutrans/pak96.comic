@@ -1,7 +1,7 @@
-Obj=way
-Name=LocAirRunway
+obj=way
 waytype=air
 system_type=1
+name=LocAirRunway
 copyright=Reytm2
 cost=16000
 maintenance=100
