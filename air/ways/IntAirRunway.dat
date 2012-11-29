@@ -1,8 +1,8 @@
 obj=way
-name=IntAirRunway
-copyright=An_dz
 waytype=air
 system_type=1
+name=IntAirRunway
+copyright=An_dz
 cost=19000
 maintenance=100
 topspeed=1000

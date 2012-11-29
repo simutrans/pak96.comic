@@ -1,0 +1,9 @@
+obj=building
+type=res
+name=pinkBlock1950
+copyright=Reytm2
+intro_year=1950
+level=10
+dims=1,1,1
+BackImage[0][0][0][0][0][0]=pinkBlock1950.0.0
+BackImage[0][0][0][0][0][1]=pinkBlock1950.1.0

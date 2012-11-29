@@ -1,0 +1,11 @@
+obj=building
+type=res
+name=Apartments1960
+copyright=Reytm2
+level=13
+intro_year=1960
+dims=1,1,1
+BackImage[0][0][0][0][0][0]=Apartments1960.1.0
+BackImage[0][0][0][1][0][0]=Apartments1960.0.0
+BackImage[0][0][0][0][0][1]=Apartments1960.1.1
+BackImage[0][0][0][1][0][1]=Apartments1960.0.1

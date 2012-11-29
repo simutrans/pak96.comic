@@ -1,14 +1,14 @@
 obj=way
-name=LZDirtTaxiway
-copyright=An_dz
 waytype=air
 system_type=0
+name=LZDirtTaxiway
+copyright=An_dz
 cost=6500
 maintenance=100
 topspeed=40
+max_weight=10
 intro_year=1917
 intro_month=3
-max_weight=10
 Image[-]=LZDirtTaxiway.2.5
 Image[N]=LZDirtTaxiway.2.1
 Image[S]=LZDirtTaxiway.2.2

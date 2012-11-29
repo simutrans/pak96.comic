@@ -1,14 +1,14 @@
 obj=way
-name=LZDirtRunway
-copyright=An_dz
 waytype=air
 system_type=1
+name=LZDirtRunway
+copyright=An_dz
 cost=8000
 maintenance=100
 topspeed=110
+max_weight=10
 intro_year=1917
 intro_month=3
-max_weight=10
 Image[-]=LZDirtRunway.1.5
 Image[NS]=LZDirtRunway.0.2
 Image[EW]=LZDirtRunway.1.2

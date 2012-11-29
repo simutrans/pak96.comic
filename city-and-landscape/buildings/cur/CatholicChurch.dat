@@ -1,0 +1,17 @@
+obj=building
+type=cur
+name=CatholicChurch
+copyright=Reytm2
+build_time=1000
+intro_year=1970
+chance=90
+level=30
+dims=2,2,1
+BackImage[0][0][0][0][0][0]=CatholicChurch.0.0
+BackImage[0][0][1][0][0][0]=CatholicChurch.0.1
+BackImage[0][1][0][0][0][0]=CatholicChurch.0.2
+BackImage[0][1][1][0][0][0]=CatholicChurch.1.0
+BackImage[0][0][0][0][0][1]=CatholicChurch.1.1
+BackImage[0][0][1][0][0][1]=CatholicChurch.1.2
+BackImage[0][1][0][0][0][1]=CatholicChurch.2.0
+BackImage[0][1][1][0][0][1]=CatholicChurch.2.1
