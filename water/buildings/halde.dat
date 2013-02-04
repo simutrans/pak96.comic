@@ -1,0 +1,13 @@
+obj=building
+waytype=water
+type=extension
+name=halde
+copyright=The Transporter
+level=10
+enables_ware=1
+noInfo=1
+Dims=1,1,1
+icon=> Halde.0.2
+cursor=Halde.0.3
+FrontImage[0][0][0][0][0][0]=Halde.0.0
+FrontImage[0][0][0][0][0][1]=Halde.0.1
