@@ -1,0 +1,28 @@
+obj=tunnel
+waytype=maglev_track
+name=MaglevTunnel
+copyright=The Transporter
+cost=60000
+maintenance=11000
+topspeed=700
+intro_year=1970
+icon=> maglevTunnel.1.2
+cursor=maglevTunnel.1.3
+BackImage[N][0]=maglevTunnel.1.0
+FrontImage[N][0]=maglevTunnel.0.0
+BackImage[W][0]=maglevTunnel.1.1
+FrontImage[W][0]=maglevTunnel.0.1
+BackImage[S][0]=maglevTunnel.5.2
+FrontImage[S][0]=maglevTunnel.0.2
+BackImage[E][0]=maglevTunnel.5.2
+FrontImage[E][0]=maglevTunnel.0.3
+#winter
+#BackImage[N][1]=maglevTunnel.1.0
+#FrontImage[N][1]=maglevTunnel.0.0
+#BackImage[W][1]=maglevTunnel.1.1
+#FrontImage[W][1]=maglevTunnel.0.1
+#BackImage[S][1]=maglevTunnel.5.2
+#FrontImage[S][1]=maglevTunnel.0.2
+#BackImage[E][1]=maglevTunnel.5.2
+#FrontImage[E][1]=maglevTunnel.0.3
+— 

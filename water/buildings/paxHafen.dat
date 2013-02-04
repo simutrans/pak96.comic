@@ -1,0 +1,17 @@
+obj=building
+waytype=water
+type=stop
+name=Passagierhafen
+copyright=The Transporter
+level=2
+enables_pax=1
+noInfo=1
+#noconstruction=1
+intro_year=1896
+dims=1,1,2
+icon=> paxHafen.0.2
+cursor=paxHafen.0.3
+BackImage[0][0][0][0][0][0]=paxHafen.1.1
+FrontImage[0][0][0][0][0][0]=paxHafen.0.0
+BackImage[1][0][0][0][0][0]=paxHafen.1.0
+FrontImage[1][0][0][0][0][0]=paxHafen.0.1
