@@ -26,7 +26,7 @@ weight_per_unit=70
 mapColor=60
 -------------
 obj=good
-name=cloth
+name=clothes
 catg=1
 metric=paletten
 value=170
