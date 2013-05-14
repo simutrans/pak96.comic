@@ -1,7 +1,7 @@
 obj=factory
 name=uraniumEnrichment
 copyright=Reytm2
-productivity=60
+productivity=100
 range=10
 InputGood[0]=uranium-ore
 InputCapacity[0]=700
