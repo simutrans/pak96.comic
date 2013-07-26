@@ -14,7 +14,6 @@ intro_year=1989
 intro_month=2
 weight=179
 engine_type=diesel
-smoke=-1
 Constraint[Prev][0]=none
 Constraint[Next][0]=none
 EmptyImage[W]=Zeno-Boeing-747-400-An_dz-Convert.0.0

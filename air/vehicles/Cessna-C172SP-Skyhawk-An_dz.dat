@@ -14,7 +14,6 @@ intro_year=1955
 intro_month=11
 weight=1
 engine_type=diesel
-smoke=-1
 Constraint[Prev][0]=none
 Constraint[Next][0]=none
 EmptyImage[W]=Cessna-C172SP-Skyhawk-Pax-An_dz.0.0
@@ -25,7 +24,7 @@ EmptyImage[E]=Cessna-C172SP-Skyhawk-Pax-An_dz.0.4
 EmptyImage[SE]=Cessna-C172SP-Skyhawk-Pax-An_dz.0.5
 EmptyImage[S]=Cessna-C172SP-Skyhawk-Pax-An_dz.0.6
 EmptyImage[SW]=Cessna-C172SP-Skyhawk-Pax-An_dz.0.7
--------------------------------------
+-------------
 obj=vehicle
 waytype=air
 name=CessnaC172SPSkyhawk-Post
@@ -41,7 +40,6 @@ intro_year=1955
 intro_month=11
 weight=1
 engine_type=diesel
-smoke=-1
 Constraint[Prev][0]=none
 Constraint[Next][0]=none
 EmptyImage[W]=Cessna-C172SP-Skyhawk-Post-An_dz.0.0
