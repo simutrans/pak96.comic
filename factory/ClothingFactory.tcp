@@ -2,7 +2,7 @@
     "comment": "This is a TileCutter Project file (JSON formatted). You may edit it by hand if you are careful.", 
     "data": {
         "dat": {
-            "dat_lump": "obj=factory\nname=ClothingFactory\ncopyright=VaclavMacurek\nproductivity=60\nrange=30\nInputGood[0]=linen\nInputCapacity[0]=900\nInputFactor[0]=60\nInputSupplier[0]=0\nOutputGood[0]=clothes\nOutputCapacity[0]=600\npax_level=25\nmail_boost=470\npassenger_boost=350\nelectricity_boost=1000\nelectricity_amount=115\nlocation=Land\ndistributionWeight=50\nintro_year=1950\nMapColor=205"
+            "dat_lump": "obj=factory\nname=ClothingFactory\ncopyright=VaclavMacurek\nproductivity=60\nrange=30\nInputGood[0]=linen\nInputCapacity[0]=900\nInputFactor[0]=60\nInputSupplier[0]=0\nOutputGood[0]=clothes\nOutputCapacity[0]=1500\npax_level=25\nmail_boost=470\npassenger_boost=350\nelectricity_boost=1000\nelectricity_amount=115\nlocation=City\ndistributionWeight=50\nintro_year=1950\nMapColor=205"
         }, 
         "dims": {
             "directions": 1, 
