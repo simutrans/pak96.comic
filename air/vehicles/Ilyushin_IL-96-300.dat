@@ -14,7 +14,6 @@ intro_year=1988
 intro_month=9
 weight=121
 engine_type=diesel
-smoke=-1
 Constraint[Next][0]=none
 Constraint[Prev][0]=none
 EmptyImage[E]=Ilyushin_il-96-300.0.2

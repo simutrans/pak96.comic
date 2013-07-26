@@ -16,7 +16,6 @@ intro_month=1
 #retire_month=12
 weight=120
 engine_type=diesel
-smoke=-1
 Constraint[Prev][0]=none
 Constraint[Next][0]=none
 EmptyImage[W]=DC-10-30_Martinair_Pas.0.6
@@ -27,7 +26,7 @@ EmptyImage[E]=DC-10-30_Martinair_Pas.0.2
 EmptyImage[SE]=DC-10-30_Martinair_Pas.0.1
 EmptyImage[S]=DC-10-30_Martinair_Pas.0.0
 EmptyImage[SW]=DC-10-30_Martinair_Pas.0.7
---------------------------
+-------------
 obj=vehicle
 waytype=air
 name=DC-10-30_Martinair_Cargo
@@ -45,7 +44,6 @@ intro_month=1
 #retire_month=12
 weight=120
 engine_type=diesel
-smoke=-1
 Constraint[Prev][0]=none
 Constraint[Next][0]=none
 EmptyImage[W]=DC-10-30_Martinair_Cargo.0.6

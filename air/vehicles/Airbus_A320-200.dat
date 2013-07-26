@@ -14,7 +14,6 @@ intro_year=1987
 intro_month=2
 weight=42
 engine_type=diesel
-smoke=-1
 Constraint[Next][0]=none
 Constraint[Prev][0]=none
 EmptyImage[E]=Airbus_A320-200.0.2

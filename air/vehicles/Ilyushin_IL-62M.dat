@@ -16,7 +16,6 @@ intro_month=9
 #retire_month=3
 weight=69
 engine_type=diesel
-smoke=-1
 Constraint[Next][0]=none
 Constraint[Prev][0]=none
 EmptyImage[E]=Ilyushin_IL-62M.0.2
