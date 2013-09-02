@@ -2,10 +2,10 @@
     "comment": "This is a TileCutter Project file (JSON formatted). You may edit it by hand if you are careful.", 
     "data": {
         "dat": {
-            "dat_lump": "obj=building\ntype=cur\nname=LaunchSite\ncopyright=Reytm2\nintro_year=1960\nchance=50\nlevel=24\nclimates=desert,temperate,mediterran,tropic"
+            "dat_lump": "obj=building\ntype=cur\nname=LaunchSite\ncopyright=Reytm2\nintro_year=1960\nchance=20\nlevel=24\nclimates=desert,temperate,mediterran,tropic"
         }, 
         "dims": {
-            "directions": 1, 
+            "directions": 4, 
             "frames": 1, 
             "frontimage": 0, 
             "paksize": 96, 
@@ -27,7 +27,7 @@
                         {
                             "offset": [
                                 0, 
-                                0
+                                384
                             ], 
                             "path": "LaunchSite-uncut.png"
                         }, 
@@ -40,6 +40,26 @@
                         }
                     ]
                 ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                384, 
+                                384
+                            ], 
+                            "path": "LaunchSite-uncut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ]
+            ], 
+            [
                 [
                     [
                         {
@@ -57,35 +77,15 @@
                             "path": ""
                         }
                     ]
-                ]
-            ], 
-            [
-                [
-                    [
-                        {
-                            "offset": [
-                                0, 
-                                0
-                            ], 
-                            "path": ""
-                        }, 
-                        {
-                            "offset": [
-                                0, 
-                                0
-                            ], 
-                            "path": ""
-                        }
-                    ]
                 ], 
                 [
                     [
                         {
                             "offset": [
-                                0, 
+                                576, 
                                 0
                             ], 
-                            "path": ""
+                            "path": "LaunchSite-uncut.png"
                         }, 
                         {
                             "offset": [
@@ -105,7 +105,7 @@
                                 0, 
                                 0
                             ], 
-                            "path": ""
+                            "path": "LaunchSite-uncut.png"
                         }, 
                         {
                             "offset": [
@@ -120,10 +120,10 @@
                     [
                         {
                             "offset": [
-                                0, 
+                                384, 
                                 0
                             ], 
-                            "path": ""
+                            "path": "LaunchSite-uncut.png"
                         }, 
                         {
                             "offset": [
@@ -140,10 +140,10 @@
                     [
                         {
                             "offset": [
-                                0, 
-                                0
+                                192, 
+                                384
                             ], 
-                            "path": ""
+                            "path": "LaunchSite-uncut.png"
                         }, 
                         {
                             "offset": [
@@ -158,10 +158,10 @@
                     [
                         {
                             "offset": [
-                                0, 
-                                0
+                                576, 
+                                384
                             ], 
-                            "path": ""
+                            "path": "LaunchSite-uncut.png"
                         }, 
                         {
                             "offset": [

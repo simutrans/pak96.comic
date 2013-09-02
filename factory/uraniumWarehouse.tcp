@@ -5,7 +5,7 @@
             "dat_lump": "obj=factory\nname=nuclearWarehouse\ncopyright=Reytm2\nproductivity=70\nrange=30\nInputGood[0]=uranium238\nInputCapacity[0]=2000\nInputSupplier[0]=0\nInputGood[1]=nuclearWaste\nInputCapacity[1]=2000\nInputSupplier[1]=0\nmail_boost=300\npassenger_boost=500\npax_level=10\nlocation=Land\nDistributionWeight=100\nintro_year=1960\nMapColor=143"
         }, 
         "dims": {
-            "directions": 1, 
+            "directions": 4, 
             "frames": 1, 
             "frontimage": 0, 
             "paksize": 96, 
@@ -26,24 +26,6 @@
                     [
                         {
                             "offset": [
-                                0, 
-                                0
-                            ], 
-                            "path": "uraniumWarehouse-uncut.png"
-                        }, 
-                        {
-                            "offset": [
-                                0, 
-                                0
-                            ], 
-                            "path": ""
-                        }
-                    ]
-                ], 
-                [
-                    [
-                        {
-                            "offset": [
                                 192, 
                                 0
                             ], 
@@ -57,35 +39,15 @@
                             "path": ""
                         }
                     ]
-                ]
-            ], 
-            [
-                [
-                    [
-                        {
-                            "offset": [
-                                0, 
-                                0
-                            ], 
-                            "path": ""
-                        }, 
-                        {
-                            "offset": [
-                                0, 
-                                0
-                            ], 
-                            "path": ""
-                        }
-                    ]
                 ], 
                 [
                     [
                         {
                             "offset": [
-                                0, 
+                                384, 
                                 0
                             ], 
-                            "path": ""
+                            "path": "uraniumWarehouse-uncut.png"
                         }, 
                         {
                             "offset": [
@@ -102,10 +64,10 @@
                     [
                         {
                             "offset": [
-                                0, 
-                                0
+                                192, 
+                                192
                             ], 
-                            "path": ""
+                            "path": "uraniumWarehouse-uncut.png"
                         }, 
                         {
                             "offset": [
@@ -120,10 +82,10 @@
                     [
                         {
                             "offset": [
-                                0, 
-                                0
+                                384, 
+                                192
                             ], 
-                            "path": ""
+                            "path": "uraniumWarehouse-uncut.png"
                         }, 
                         {
                             "offset": [
@@ -143,7 +105,7 @@
                                 0, 
                                 0
                             ], 
-                            "path": ""
+                            "path": "uraniumWarehouse-uncut.png"
                         }, 
                         {
                             "offset": [
@@ -158,10 +120,48 @@
                     [
                         {
                             "offset": [
+                                576, 
+                                0
+                            ], 
+                            "path": "uraniumWarehouse-uncut.png"
+                        }, 
+                        {
+                            "offset": [
                                 0, 
                                 0
                             ], 
                             "path": ""
+                        }
+                    ]
+                ]
+            ], 
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                192
+                            ], 
+                            "path": "uraniumWarehouse-uncut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": ""
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                576, 
+                                192
+                            ], 
+                            "path": "uraniumWarehouse-uncut.png"
                         }, 
                         {
                             "offset": [
