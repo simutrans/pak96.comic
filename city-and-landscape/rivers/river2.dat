@@ -27,7 +27,7 @@ Image[NSEW]=river2.1.2
 Image[NE]=river2.3.0
 Image[SE]=river2.2.3
 Image[NW]=river2.2.4
-Image[SW]=river.2.5
+Image[SW]=river2.2.5
 # hangtyp * animation
 ImageUp[3]=river2.1.3
 ImageUp[6]=river2.1.4
