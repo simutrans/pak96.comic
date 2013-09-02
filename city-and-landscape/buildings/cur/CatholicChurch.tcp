@@ -5,7 +5,7 @@
             "dat_lump": "obj=building\ntype=cur\nname=CatholicChurch\ncopyright=Reytm2\nbuild_time=1000\nintro_year=1970\nchance=90\nlevel=30"
         }, 
         "dims": {
-            "directions": 1, 
+            "directions": 4, 
             "frames": 1, 
             "frontimage": 0, 
             "paksize": 96, 
@@ -44,7 +44,7 @@
                     [
                         {
                             "offset": [
-                                192, 
+                                384, 
                                 0
                             ], 
                             "path": "CatholicChurch-uncut.png"
@@ -65,9 +65,9 @@
                         {
                             "offset": [
                                 0, 
-                                0
+                                192
                             ], 
-                            "path": ""
+                            "path": "CatholicChurch-uncut.png"
                         }, 
                         {
                             "offset": [
@@ -82,10 +82,10 @@
                     [
                         {
                             "offset": [
-                                0, 
-                                0
+                                384, 
+                                192
                             ], 
-                            "path": ""
+                            "path": "CatholicChurch-uncut.png"
                         }, 
                         {
                             "offset": [
@@ -102,10 +102,10 @@
                     [
                         {
                             "offset": [
-                                0, 
+                                192, 
                                 0
                             ], 
-                            "path": ""
+                            "path": "CatholicChurch-uncut.png"
                         }, 
                         {
                             "offset": [
@@ -120,10 +120,10 @@
                     [
                         {
                             "offset": [
-                                0, 
+                                576, 
                                 0
                             ], 
-                            "path": ""
+                            "path": "CatholicChurch-uncut.png"
                         }, 
                         {
                             "offset": [
@@ -140,10 +140,10 @@
                     [
                         {
                             "offset": [
-                                0, 
-                                0
+                                192, 
+                                192
                             ], 
-                            "path": ""
+                            "path": "CatholicChurch-uncut.png"
                         }, 
                         {
                             "offset": [
@@ -158,10 +158,10 @@
                     [
                         {
                             "offset": [
-                                0, 
-                                0
+                                576, 
+                                192
                             ], 
-                            "path": ""
+                            "path": "CatholicChurch-uncut.png"
                         }, 
                         {
                             "offset": [
