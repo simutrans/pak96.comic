@@ -1,0 +1,180 @@
+{
+    "comment": "This is a TileCutter Project file (JSON formatted). You may edit it by hand if you are careful.", 
+    "data": {
+        "dat": {
+            "dat_lump": "obj=factory\nname=ClothingFactory\ncopyright=VaclavMacurek\nproductivity=60\nrange=30\nInputGood[0]=linen\nInputCapacity[0]=900\nInputFactor[0]=60\nInputSupplier[0]=0\nOutputGood[0]=clothes\nOutputCapacity[0]=1500\npax_level=25\nmail_boost=470\npassenger_boost=350\nelectricity_boost=1000\nelectricity_amount=115\nlocation=City\ndistributionWeight=50\nintro_year=1950\nMapColor=205"
+        }, 
+        "dims": {
+            "directions": 1, 
+            "frames": 1, 
+            "frontimage": 0, 
+            "paksize": 96, 
+            "winter": 1, 
+            "x": 3, 
+            "y": 3, 
+            "z": 2
+        }, 
+        "files": {
+            "datfile_location": "ClothingFactory.dat", 
+            "datfile_write": true, 
+            "pakfile_location": "", 
+            "pngfile_location": "ClothingFactory.png"
+        }, 
+        "images": [
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "ClothingFactory-uncut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "ClothingFactory-uncut.png"
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                288, 
+                                0
+                            ], 
+                            "path": "ClothingFactory-uncut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "ClothingFactory-uncut.png"
+                        }
+                    ]
+                ]
+            ], 
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "ClothingFactory-uncut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "ClothingFactory-uncut.png"
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "ClothingFactory-uncut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "ClothingFactory-uncut.png"
+                        }
+                    ]
+                ]
+            ], 
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "ClothingFactory-uncut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "ClothingFactory-uncut.png"
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "ClothingFactory-uncut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "ClothingFactory-uncut.png"
+                        }
+                    ]
+                ]
+            ], 
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "ClothingFactory-uncut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "ClothingFactory-uncut.png"
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "ClothingFactory-uncut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "ClothingFactory-uncut.png"
+                        }
+                    ]
+                ]
+            ]
+        ]
+    }, 
+    "type": "TCP_JSON", 
+    "version": "0.6.1"
+}

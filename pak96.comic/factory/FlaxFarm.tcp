@@ -1,0 +1,180 @@
+{
+    "comment": "This is a TileCutter Project file (JSON formatted). You may edit it by hand if you are careful.", 
+    "data": {
+        "dat": {
+            "dat_lump": "obj=factory\nname=FlaxFarm\ncopyright=VaclavMacurek\nproductivity=38\nrange=50\nOutputGood[0]=linen\nOutputCapacity[0]=1000\npax_level=5\nmail_boost=110\npassenger_boost=200\nelectricity_boost=300\nelectricity_amount=50\nlocation=Land\ndistributionWeight=70\nmin_fields=8\nmax_fields=52\nprobability_to_spawn=7000\nfields[0]=FlaxField\nproduction_per_field[0]=8\nhas_snow[0]=1\n#intro_year=1920\nintro_year=1950\nmapColor=87\nclimates=mediterran,temperate,tundra"
+        }, 
+        "dims": {
+            "directions": 1, 
+            "frames": 1, 
+            "frontimage": 0, 
+            "paksize": 96, 
+            "winter": 1, 
+            "x": 2, 
+            "y": 2, 
+            "z": 1
+        }, 
+        "files": {
+            "datfile_location": "FlaxFarm.dat", 
+            "datfile_write": true, 
+            "pakfile_location": "", 
+            "pngfile_location": "FlaxFarm.png"
+        }, 
+        "images": [
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "FlaxFarm-uncut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "FlaxFarm-uncut.png"
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                192, 
+                                0
+                            ], 
+                            "path": "FlaxFarm-uncut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "FlaxFarm-uncut.png"
+                        }
+                    ]
+                ]
+            ], 
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "FlaxFarm-uncut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "FlaxFarm-uncut.png"
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "FlaxFarm-uncut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "FlaxFarm-uncut.png"
+                        }
+                    ]
+                ]
+            ], 
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "FlaxFarm-uncut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "FlaxFarm-uncut.png"
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "FlaxFarm-uncut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "FlaxFarm-uncut.png"
+                        }
+                    ]
+                ]
+            ], 
+            [
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "FlaxFarm-uncut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "FlaxFarm-uncut.png"
+                        }
+                    ]
+                ], 
+                [
+                    [
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "FlaxFarm-uncut.png"
+                        }, 
+                        {
+                            "offset": [
+                                0, 
+                                0
+                            ], 
+                            "path": "FlaxFarm-uncut.png"
+                        }
+                    ]
+                ]
+            ]
+        ]
+    }, 
+    "type": "TCP_JSON", 
+    "version": "0.6.1"
+}

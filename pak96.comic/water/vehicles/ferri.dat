@@ -1,0 +1,32 @@
+obj=vehicle
+waytype=water
+name=rtm-ferry
+copyright=Reytm2
+freight=Passagiere
+payload=100
+speed=40
+power=1500
+gear=80
+cost=150000000
+runningcost=150
+intro_year=1970
+intro_month=5
+#retire_year=2011
+#retire_month=12
+weight=91
+engine_type=diesel
+##Experimental stuff##
+comfort=100
+loading_time=22000
+increase_maintenance_after_years=30
+##End Experimental
+Constraint[Next][0]=none
+Constraint[Prev][0]=none
+EmptyImage[E]=ferri.0.4
+EmptyImage[SE]=ferri.0.5
+EmptyImage[S]=ferri.0.6
+EmptyImage[SW]=ferri.0.7
+EmptyImage[W]=ferri.0.0
+EmptyImage[NW]=ferri.0.1
+EmptyImage[N]=ferri.0.2
+EmptyImage[NE]=ferri.0.3

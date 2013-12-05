@@ -1,0 +1,35 @@
+obj=way
+waytype=water
+system_type=255
+name=river2
+copyright=sojo & The Transporter
+cost=1000000
+maintenance=1
+topspeed=0
+max_weight=0
+intro_year=1
+# skin
+icon=> river2.3.4
+cursor=river2.3.5
+# rbis * animation
+Image[-]=river2.1.2
+Image[N]=river2.1.5
+Image[S]=river2.2.1
+Image[E]=river2.2.2
+Image[W]=river2.2.0
+Image[NS]=river2.1.0
+Image[EW]=river2.1.1
+Image[NSE]=river2.0.2
+Image[NSW]=river2.0.4
+Image[NEW]=river2.0.1
+Image[SEW]=river2.0.3
+Image[NSEW]=river2.1.2
+Image[NE]=river2.3.0
+Image[SE]=river2.2.3
+Image[NW]=river2.2.4
+Image[SW]=river2.2.5
+# hangtyp * animation
+ImageUp[3]=river2.1.3
+ImageUp[6]=river2.1.4
+ImageUp[9]=river2.0.0
+ImageUp[12]=river2.0.5 
