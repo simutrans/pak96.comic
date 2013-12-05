@@ -1,7 +1,0 @@
-obj=misc
-name=PowerSource
-copyright=The Transporter
-Image[0]=transformerSource.0.0
-Image[1]=transformerSource.0.1
-Image[2]=transformerSource.0.2
-Image[3]=transformerSource.0.3
