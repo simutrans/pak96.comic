@@ -9,48 +9,48 @@ maintenance=100
 topspeed=100
 intro_year=1950
 intro_month=1
-cursor=TramTrolleys_100_BackMenuIcon.6.1
-icon=> TramTrolleys_100_BackMenuIcon.6.0
+cursor=TramTrolleys_100_BackMenuCursor.6.1
+icon=> TramTrolleys_100_BackMenuCursor.6.0
 # back
 # default tile
-BackImage[-]=TramTrolleys_100_BackMenuIcon.3.0
+BackImage[-]=TramTrolleys_100_BackMenuCursor.3.0
 # track ends
-BackImage[N]=TramTrolleys_100_BackMenuIcon.5.3
-BackImage[S]=TramTrolleys_100_BackMenuIcon.5.2
-BackImage[E]=TramTrolleys_100_BackMenuIcon.5.0
-BackImage[W]=TramTrolleys_100_BackMenuIcon.5.1
+BackImage[N]=TramTrolleys_100_BackMenuCursor.5.3
+BackImage[S]=TramTrolleys_100_BackMenuCursor.5.2
+BackImage[E]=TramTrolleys_100_BackMenuCursor.5.0
+BackImage[W]=TramTrolleys_100_BackMenuCursor.5.1
 # base tiles
-BackImage[NS]=TramTrolleys_100_BackMenuIcon.0.1
-BackImage[EW]=TramTrolleys_100_BackMenuIcon.0.0
+BackImage[NS]=TramTrolleys_100_BackMenuCursor.0.1
+BackImage[EW]=TramTrolleys_100_BackMenuCursor.0.0
 # T-crossings - basic
-BackImage[NSE]=TramTrolleys_100_BackMenuIcon.2.3
-BackImage[NSW]=TramTrolleys_100_BackMenuIcon.2.1
-BackImage[NEW]=TramTrolleys_100_BackMenuIcon.2.0
-BackImage[SEW]=TramTrolleys_100_BackMenuIcon.2.2
+BackImage[NSE]=TramTrolleys_100_BackMenuCursor.2.3
+BackImage[NSW]=TramTrolleys_100_BackMenuCursor.2.1
+BackImage[NEW]=TramTrolleys_100_BackMenuCursor.2.0
+BackImage[SEW]=TramTrolleys_100_BackMenuCursor.2.2
 # T-crossings - new
-BackImage[NSE1]=TramTrolleys_100_BackMenuIcon.2.3
-BackImage[NSE2]=TramTrolleys_100_BackMenuIcon.2.3
-BackImage[NSW1]=TramTrolleys_100_BackMenuIcon.2.1
-BackImage[NSW2]=TramTrolleys_100_BackMenuIcon.2.1
-BackImage[NEW1]=TramTrolleys_100_BackMenuIcon.2.0
-BackImage[NEW2]=TramTrolleys_100_BackMenuIcon.2.0
-BackImage[SEW1]=TramTrolleys_100_BackMenuIcon.2.2
-BackImage[SEW2]=TramTrolleys_100_BackMenuIcon.2.2
+BackImage[NSE1]=TramTrolleys_100_BackMenuCursor.2.3
+BackImage[NSE2]=TramTrolleys_100_BackMenuCursor.2.3
+BackImage[NSW1]=TramTrolleys_100_BackMenuCursor.2.1
+BackImage[NSW2]=TramTrolleys_100_BackMenuCursor.2.1
+BackImage[NEW1]=TramTrolleys_100_BackMenuCursor.2.0
+BackImage[NEW2]=TramTrolleys_100_BackMenuCursor.2.0
+BackImage[SEW1]=TramTrolleys_100_BackMenuCursor.2.2
+BackImage[SEW2]=TramTrolleys_100_BackMenuCursor.2.2
 # full crossing - basic
-BackImage[NSEW]=TramTrolleys_100_BackMenuIcon.3.1
+BackImage[NSEW]=TramTrolleys_100_BackMenuCursor.3.1
 # full crossings - new
-BackImage[NSEW1]=TramTrolleys_100_BackMenuIcon.3.1
-BackImage[NSEW2]=TramTrolleys_100_BackMenuIcon.3.1
+BackImage[NSEW1]=TramTrolleys_100_BackMenuCursor.3.1
+BackImage[NSEW2]=TramTrolleys_100_BackMenuCursor.3.1
 # curves/diagonals
-BackImage[NE]=TramTrolleys_100_BackMenuIcon.4.2
-BackImage[SE]=TramTrolleys_100_BackMenuIcon.4.1
-BackImage[NW]=TramTrolleys_100_BackMenuIcon.4.0
-BackImage[SW]=TramTrolleys_100_BackMenuIcon.4.3
+BackImage[NE]=TramTrolleys_100_BackMenuCursor.4.2
+BackImage[SE]=TramTrolleys_100_BackMenuCursor.4.1
+BackImage[NW]=TramTrolleys_100_BackMenuCursor.4.0
+BackImage[SW]=TramTrolleys_100_BackMenuCursor.4.3
 # slopes
-BackImageUp[3]=TramTrolleys_100_BackMenuIcon.1.1
-BackImageUp[6]=TramTrolleys_100_BackMenuIcon.1.0
-BackImageUp[9]=TramTrolleys_100_BackMenuIcon.1.2
-BackImageUp[12]=TramTrolleys_100_BackMenuIcon.1.3
+BackImageUp[3]=TramTrolleys_100_BackMenuCursor.1.1
+BackImageUp[6]=TramTrolleys_100_BackMenuCursor.1.0
+BackImageUp[9]=TramTrolleys_100_BackMenuCursor.1.2
+BackImageUp[12]=TramTrolleys_100_BackMenuCursor.1.3
 # front
 # default tile
 FrontImage[-]=TramTrolleys_100_Front.3.0
