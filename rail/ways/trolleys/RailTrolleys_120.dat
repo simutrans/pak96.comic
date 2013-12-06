@@ -1,0 +1,92 @@
+Obj=way-object
+waytype=track
+own_waytype=electrified_track
+Name=TrainElectrification_120
+copyright=VaclavMacurek
+cost=12000
+maintenance=120
+topspeed=120
+intro_year= 1950
+intro_month=1
+cursor=RailTrolleys_120_BackMenuCursor.6.1
+icon=> RailTrolleys_120_BackMenuCursor.6.0
+# back
+# default tile
+BackImage[-]=RailTrolleys_120_BackMenuCursor.3.0
+# track ends
+BackImage[N]=RailTrolleys_120_BackMenuCursor.5.3
+BackImage[S]=RailTrolleys_120_BackMenuCursor.5.2
+BackImage[E]=RailTrolleys_120_BackMenuCursor.5.0
+BackImage[W]=RailTrolleys_120_BackMenuCursor.5.1
+# base tiles
+BackImage[NS]=RailTrolleys_120_BackMenuCursor.0.1
+BackImage[EW]=RailTrolleys_120_BackMenuCursor.0.0
+# T-crossings - basic
+BackImage[NSE]=RailTrolleys_120_BackMenuCursor.2.3
+BackImage[NSW]=RailTrolleys_120_BackMenuCursor.2.1
+BackImage[NEW]=RailTrolleys_120_BackMenuCursor.2.0
+BackImage[SEW]=RailTrolleys_120_BackMenuCursor.2.2
+# T-crossings - new
+BackImage[NSE1]=RailTrolleys_120_BackMenuCursor.2.3
+BackImage[NSE2]=RailTrolleys_120_BackMenuCursor.2.3
+BackImage[NSW1]=RailTrolleys_120_BackMenuCursor.2.1
+BackImage[NSW2]=RailTrolleys_120_BackMenuCursor.2.1
+BackImage[NEW1]=RailTrolleys_120_BackMenuCursor.2.0
+BackImage[NEW2]=RailTrolleys_120_BackMenuCursor.2.0
+BackImage[SEW1]=RailTrolleys_120_BackMenuCursor.2.2
+BackImage[SEW2]=RailTrolleys_120_BackMenuCursor.2.2
+# full crossings - basic
+BackImage[NSEW]=RailTrolleys_120_BackMenuCursor.3.1
+# full crossings - new
+BackImage[NSEW1]=RailTrolleys_120_BackMenuCursor.3.1
+BackImage[NSEW2]=RailTrolleys_120_BackMenuCursor.3.1
+# curves/diagonals
+BackImage[NE]=RailTrolleys_120_BackMenuCursor.4.2
+BackImage[SE]=RailTrolleys_120_BackMenuCursor.4.1
+BackImage[NW]=RailTrolleys_120_BackMenuCursor.4.0
+BackImage[SW]=RailTrolleys_120_BackMenuCursor.4.3
+# slopes
+BackImageUp[3]=RailTrolleys_120_BackMenuCursor.1.1
+BackImageUp[6]=RailTrolleys_120_BackMenuCursor.1.0
+BackImageUp[9]=RailTrolleys_120_BackMenuCursor.1.2
+BackImageUp[12]=RailTrolleys_120_BackMenuCursor.1.3
+# front
+# default tile
+FrontImage[-]=RailTrolleys_120_Front.3.0
+# track ends
+FrontImage[N]=RailTrolleys_120_Front.5.3
+FrontImage[S]=RailTrolleys_120_Front.5.2
+FrontImage[E]=RailTrolleys_120_Front.5.0
+FrontImage[W]=RailTrolleys_120_Front.5.1
+# base tiles
+FrontImage[NS]=RailTrolleys_120_Front.0.1
+FrontImage[EW]=RailTrolleys_120_Front.0.0
+# T-crossings - basic
+FrontImage[NSE]=RailTrolleys_120_Front.2.3
+FrontImage[NSW]=RailTrolleys_120_Front.2.1
+FrontImage[NEW]=RailTrolleys_120_Front.2.0
+FrontImage[SEW]=RailTrolleys_120_Front.2.2
+# T-crossings - new
+FrontImage[NSE1]=RailTrolleys_120_Front.2.3
+FrontImage[NSE2]=RailTrolleys_120_Front.2.3
+FrontImage[NSW1]=RailTrolleys_120_Front.2.1
+FrontImage[NSW2]=RailTrolleys_120_Front.2.1
+FrontImage[NEW1]=RailTrolleys_120_Front.2.0
+FrontImage[NEW2]=RailTrolleys_120_Front.2.0
+FrontImage[SEW1]=RailTrolleys_120_Front.2.2
+FrontImage[SEW2]=RailTrolleys_120_Front.2.2
+# full crossings - basic
+FrontImage[NSEW]=RailTrolleys_120_Front.3.1
+# full crossings - new
+FrontImage[NSEW1]=RailTrolleys_120_Front.3.1
+FrontImage[NSEW2]=RailTrolleys_120_Front.3.1
+# curves/diagonals
+FrontImage[NE]=RailTrolleys_120_Front.4.2
+FrontImage[SE]=RailTrolleys_120_Front.4.1
+FrontImage[NW]=RailTrolleys_120_Front.4.0
+FrontImage[SW]=RailTrolleys_120_Front.4.3
+# slopes
+FrontImageUp[3]=RailTrolleys_120_Front.1.1
+FrontImageUp[6]=RailTrolleys_120_Front.1.0
+FrontImageUp[9]=RailTrolleys_120_Front.1.2
+FrontImageUp[12]=RailTrolleys_120_Front.1.3
