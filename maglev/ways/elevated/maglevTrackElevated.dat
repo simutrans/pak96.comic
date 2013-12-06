@@ -1,7 +1,7 @@
 obj=way
 waytype=maglev_track
 system_type=1
-name=MaglevAufgeständert
+name=MaglevAufgestaendert
 copyright=The Transporter
 cost=60000
 maintenance=12000

@@ -1,6 +1,6 @@
 obj=bridge
 waytype=maglev_track
-name=MaglevBrücke
+name=MaglevBruecke
 copyright=The Transporter
 cost=50000
 maintenance=5000

@@ -1,6 +1,6 @@
 obj=bridge
 waytype=water
-name=Kanalbrücke1
+name=Kanalbruecke1
 copyright=The Transporter
 cost=100
 maintenance=2500
