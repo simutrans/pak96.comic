@@ -2,7 +2,7 @@
     "comment": "This is a TileCutter Project file (JSON formatted). You may edit it by hand if you are careful.", 
     "data": {
         "dat": {
-            "dat_lump": "obj=factory\nname=SportFactory\ncopyright=Reytm2\nproductivity=71\nrange=15\nInputGood[0]=latex\nInputCapacity[0]=600\nInputFactor[0]=80\nInputSupplier[0]=0\nInputGood[1]=flax\nInputCapacity[1]=600\nInputFactor[1]=90\nInputSupplier[1]=0\nOutputGood[0]=sports_items\nOutputCapacity[0]=350\nmail_boost=400\npassenger_boost=300\nelectricity_boost=1000\nelectricity_amount=70\npax_level=25\nlocation=Land\ndistributionWeight=60\n#intro_year=1985\nintro_year=1950\nMapColor=87"
+            "dat_lump": "obj=factory\nname=SportFactory\ncopyright=Reytm2\nproductivity=71\nrange=15\nInputGood[0]=latex\nInputCapacity[0]=600\nInputFactor[0]=80\nInputSupplier[0]=0\nInputGood[1]=linen\nInputCapacity[1]=600\nInputFactor[1]=90\nInputSupplier[1]=0\nOutputGood[0]=sports_items\nOutputCapacity[0]=350\npax_level=25\nmail_boost=400\npassenger_boost=300\nelectricity_boost=1000\nelectricity_amount=70\nlocation=Land\ndistributionWeight=60\n#intro_year=1985\nintro_year=1950\nMapColor=87"
         }, 
         "dims": {
             "directions": 1, 

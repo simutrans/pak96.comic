@@ -2,7 +2,7 @@
     "comment": "This is a TileCutter Project file (JSON formatted). You may edit it by hand if you are careful.", 
     "data": {
         "dat": {
-            "dat_lump": "obj=building\ntype=extension\nwaytype=air\nname=FullTerminal1970\ncopyright=Reytm2 & An_dz\nnoinfo=1\nenables_pax=1\nenables_post=1\nenables_ware=1\nlevel=4\nintro_year=1970\nintro_month=2"
+            "dat_lump": "obj=building\ntype=extension\nwaytype=air\nname=AirFullTerminal1970\ncopyright=Reytm2 & An_dz\nnoinfo=1\nenables_pax=1\nenables_post=1\nenables_ware=1\nlevel=4\nintro_year=1970\nintro_month=2"
         }, 
         "dims": {
             "directions": 4, 
