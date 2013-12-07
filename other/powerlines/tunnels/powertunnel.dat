@@ -35,6 +35,7 @@ cost=40000
 maintenance=1000
 intro_year=1960
 #retire_year=2500
+# hidden way
 icon=> -
 cursor=-
 # rbis * animation

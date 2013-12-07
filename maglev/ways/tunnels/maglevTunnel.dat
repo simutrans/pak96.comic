@@ -1,5 +1,6 @@
 obj=tunnel
 waytype=maglev_track
+way=MaglevTrack
 name=MaglevTunnel
 copyright=The Transporter
 cost=60000

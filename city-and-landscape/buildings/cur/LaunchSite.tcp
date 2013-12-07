@@ -2,7 +2,7 @@
     "comment": "This is a TileCutter Project file (JSON formatted). You may edit it by hand if you are careful.", 
     "data": {
         "dat": {
-            "dat_lump": "obj=building\ntype=cur\nname=LaunchSite\ncopyright=Reytm2\nintro_year=1960\nchance=20\nlevel=24\nclimates=desert,temperate,mediterran,tropic"
+            "dat_lump": "obj=building\ntype=cur\nname=LaunchSite\ncopyright=Reytm2\nintro_year=1960\n#chance=20\nlevel=24\nclimates=desert,temperate,mediterran,tropic"
         }, 
         "dims": {
             "directions": 4, 

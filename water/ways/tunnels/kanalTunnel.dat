@@ -1,5 +1,6 @@
 obj=tunnel
 waytype=water
+way=kanal
 name=Kanaltunnel
 copyright=The Transporter
 cost=40000

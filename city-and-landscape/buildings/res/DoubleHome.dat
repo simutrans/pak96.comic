@@ -4,6 +4,6 @@ name=DoubleHome
 copyright=Reytm2
 level=9
 intro_year=1960
-Dims=1,1,1
+dims=1,1,1
 BackImage[0][0][0][0][0][0]=DoubleHome.0.0
 BackImage[0][0][0][0][0][1]=DoubleHome.0.1

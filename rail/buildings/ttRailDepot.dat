@@ -1,13 +1,13 @@
 obj=building
-waytype=track
 type=depot
+waytype=track
 name=TrainDepot
 copyright=The Transporter
+noinfo=1
 level=1
-noInfo=1
 needs_ground=0
 intro_year=1900
-Dims=1,1,4
+dims=1,1,4
 icon=> ttRailDepot.0.4
 cursor=ttRailDepot.0.5
 BackImage[0][0][0][0][0][0]=ttRailDepot.1.0

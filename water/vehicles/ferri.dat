@@ -13,13 +13,13 @@ intro_year=1970
 intro_month=5
 #retire_year=2011
 #retire_month=12
-weight=91
 engine_type=diesel
-##Experimental stuff##
+weight=91
+## Experimental stuff ##
 comfort=100
 loading_time=22000
 increase_maintenance_after_years=30
-##End Experimental
+## End Experimental ##
 Constraint[Next][0]=none
 Constraint[Prev][0]=none
 EmptyImage[E]=ferri.0.4

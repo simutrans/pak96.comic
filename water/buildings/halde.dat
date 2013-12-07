@@ -1,12 +1,12 @@
 obj=building
-waytype=water
 type=extension
+waytype=water
 name=halde
 copyright=The Transporter
-level=10
+noinfo=1
 enables_ware=1
-noInfo=1
-Dims=1,1,1
+level=10
+dims=1,1,1
 icon=> Halde.0.2
 cursor=Halde.0.3
 FrontImage[0][0][0][0][0][0]=Halde.0.0

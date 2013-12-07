@@ -1,12 +1,12 @@
 obj=building
-waytype=water
 type=stop
+waytype=water
 name=Portalkran
 copyright=The Transporter
+noinfo=1
 enables_post=1
 enables_ware=1
 level=3
-noInfo=1
 intro_year=1960
 dims=1,1,8
 icon=> portalkran.0.6

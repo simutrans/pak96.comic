@@ -2,7 +2,7 @@
     "comment": "This is a TileCutter Project file (JSON formatted). You may edit it by hand if you are careful.", 
     "data": {
         "dat": {
-            "dat_lump": "obj=building\ntype=cur\nname=SmallSoccerStadium\ncopyright=Reytm2\nbuild_time=9000\nintro_year=1940\nchance=70\nlevel=32\nneeds_ground=1\nclimates=desert,temperate,mediterran,rocky,tropic,tundra"
+            "dat_lump": "obj=building\ntype=cur\nname=SmallSoccerStadium\ncopyright=Reytm2\nbuild_time=9000\nintro_year=1940\n#chance=70\nlevel=32\nneeds_ground=1\nclimates=desert,temperate,mediterran,rocky,tropic,tundra"
         }, 
         "dims": {
             "directions": 2, 

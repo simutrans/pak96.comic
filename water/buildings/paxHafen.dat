@@ -1,12 +1,12 @@
 obj=building
-waytype=water
 type=stop
+waytype=water
 name=Passagierhafen
 copyright=The Transporter
-level=2
-enables_pax=1
-noInfo=1
+noinfo=1
 #noconstruction=1
+enables_pax=1
+level=2
 intro_year=1896
 dims=1,1,2
 icon=> paxHafen.0.2

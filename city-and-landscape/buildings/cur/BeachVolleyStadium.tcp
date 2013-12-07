@@ -2,7 +2,7 @@
     "comment": "This is a TileCutter Project file (JSON formatted). You may edit it by hand if you are careful.", 
     "data": {
         "dat": {
-            "dat_lump": "obj=building\ntype=cur\nname=BeachVolleyStadium\ncopyright=An_dz & Reytm2\nbuild_time=8000\nintro_year=1970\nchance=70\nlevel=30\nclimates=desert\nneeds_ground=1"
+            "dat_lump": "obj=building\ntype=cur\nname=BeachVolleyStadium\ncopyright=An_dz & Reytm2\nbuild_time=8000\nintro_year=1970\n#chance=70\nlevel=30\nclimates=desert\nneeds_ground=1"
         }, 
         "dims": {
             "directions": 2, 

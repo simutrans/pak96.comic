@@ -2,7 +2,7 @@
     "comment": "This is a TileCutter Project file (JSON formatted). You may edit it by hand if you are careful.", 
     "data": {
         "dat": {
-            "dat_lump": "obj=building\ntype=cur\nname=CatholicChurch\ncopyright=Reytm2\nbuild_time=1000\nintro_year=1970\nchance=90\nlevel=30"
+            "dat_lump": "obj=building\ntype=cur\nname=CatholicChurch\ncopyright=Reytm2\nbuild_time=1000\nintro_year=1970\n#chance=90\nlevel=30"
         }, 
         "dims": {
             "directions": 4, 
