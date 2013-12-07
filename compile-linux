@@ -1,0 +1,97 @@
+#!/bin/bash
+
+echo "pak96.comic open-source repository compiler for Linux"
+echo "====================================================="
+echo
+echo "This batch compiles this repository into a new folder"
+echo "called compiled, makeobj must be in root folder."
+echo
+echo "Checking for makeobj..."
+echo
+if [ -e "makeobj" ]; then
+
+	# Create folder for *.paks or delete all old paks if folder already exists
+	if [ -d "compiled" ]; then
+		rm ./compiled/*.pak
+	else
+		mkdir compiled
+	fi
+
+	echo
+	echo "-----------------------------------------------------"
+	echo "Compiling air transport..."
+	./makeobj pak96 ./compiled/ ./air/buildings/
+	./makeobj pak96 ./compiled/ ./air/signs/
+	./makeobj pak96 ./compiled/ ./air/vehicles/
+	./makeobj pak96 ./compiled/ ./air/ways/
+
+	echo
+	echo "-----------------------------------------------------"
+	echo "Compiling city and lanscape..."
+	./makeobj pak96 ./compiled/ ./city-and-landscape/buildings/com/
+	./makeobj pak96 ./compiled/ ./city-and-landscape/buildings/cur/
+	./makeobj pak96 ./compiled/ ./city-and-landscape/buildings/res/
+	./makeobj pak96 ./compiled/ ./city-and-landscape/rivers/
+
+	echo
+	echo "-----------------------------------------------------"
+	echo "Compiling factories..."
+	./makeobj pak96 ./compiled/ ./factory/
+
+	echo
+	echo "-----------------------------------------------------"
+	echo "Compiling maglevs..."
+	./makeobj pak96 ./compiled/ ./maglev/buildings/
+	./makeobj pak96 ./compiled/ ./maglev/signs/
+	./makeobj pak96 ./compiled/ ./maglev/vehicles/
+	./makeobj pak96 ./compiled/ ./maglev/ways/
+	./makeobj pak96 ./compiled/ ./maglev/ways/bridges/
+	./makeobj pak96 ./compiled/ ./maglev/ways/elevated/
+	./makeobj pak96 ./compiled/ ./maglev/ways/tunnels/
+
+	echo
+	echo "-----------------------------------------------------"
+	echo "Compiling others..."
+	./makeobj pak96 ./compiled/ ./other/powerlines/
+	./makeobj pak96 ./compiled/ ./other/powerlines/bridges/
+	./makeobj pak96 ./compiled/ ./other/powerlines/tunnels/
+
+	echo
+	echo "-----------------------------------------------------"
+	echo "Compiling railroad..."
+	./makeobj pak96 ./compiled/ ./rail/buildings/
+	./makeobj pak96 ./compiled/ ./rail/signs/
+	./makeobj pak96 ./compiled/ ./rail/vehicles/
+	./makeobj pak96 ./compiled/ ./rail/wayobjs/
+	./makeobj pak96 ./compiled/ ./rail/ways/bridges/
+
+	echo
+	echo "-----------------------------------------------------"
+	echo "Compiling road transport..."
+	./makeobj pak96 ./compiled/ ./road/vehicles/
+
+	echo
+	echo "-----------------------------------------------------"
+	echo "Compiling trams..."
+	./makeobj pak96 ./compiled/ ./tram/vehicles/
+	./makeobj pak96 ./compiled/ ./tram/wayobjs/
+
+	echo
+	echo "-----------------------------------------------------"
+	echo "Compiling naval transport..."
+	./makeobj pak96 ./compiled/ ./water/buildings/
+	./makeobj pak96 ./compiled/ ./water/vehicles/
+	./makeobj pak96 ./compiled/ ./water/ways/
+	./makeobj pak96 ./compiled/ ./water/ways/bridges/
+	./makeobj pak96 ./compiled/ ./water/ways/tunnels/
+
+	echo
+	echo "====================="
+	echo "Compilation Complete!"
+	echo "====================="
+	echo
+
+else
+	echo "ERROR: makeobj not found on root folder."
+fi
+exit 0
