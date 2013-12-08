@@ -6,6 +6,7 @@ build_time=1000
 intro_year=1970
 #chance=90
 level=30
+needs_ground=1
 dims=2,2,4
 BackImage[0][0][0][0][0][0]=CatholicChurch.0.0
 BackImage[0][0][1][0][0][0]=CatholicChurch.0.1

@@ -1,11 +1,12 @@
 obj=building
 type=extension
 waytype=water
-name=halde
+name=canalstop_96c_1
 copyright=The Transporter
 noinfo=1
 enables_ware=1
 level=10
+intro_year=1900
 dims=1,1,1
 icon=> Halde.0.2
 cursor=Halde.0.3

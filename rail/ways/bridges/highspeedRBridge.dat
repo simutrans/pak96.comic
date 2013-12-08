@@ -1,8 +1,8 @@
 obj=bridge
 waytype=track
-name=highspeedRBridge
+name=Betonbruecke
 copyright=The Transporter
-cost=1000
+cost=1500000
 maintenance=5000
 topspeed=450
 pillar_asymmetric=1

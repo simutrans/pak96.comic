@@ -1,7 +1,7 @@
 obj=building
 type=stop
 waytype=water
-name=Container_Terminal
+name=canalstop_96c_2
 copyright=The Transporter
 noinfo=1
 enables_post=1

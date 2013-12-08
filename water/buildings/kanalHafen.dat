@@ -1,10 +1,9 @@
 obj=building
 type=stop
 waytype=water
-name=kanalHafen
+name=kanalhafen
 copyright=The Transporter
 noinfo=1
-noconstruction=1
 enables_pax=1
 enables_post=1
 enables_ware=1

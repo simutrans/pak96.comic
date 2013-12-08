@@ -1,10 +1,10 @@
 obj=bridge
 waytype=track
-name=concreteRBridge
+name=moderne_Betonbruecke
 copyright=The Transporter
-cost=800
+cost=800000
 maintenance=3500
-topspeed=160
+topspeed=210
 pillar_asymmetric=1
 pillar_distance=2
 max_lenght=10
