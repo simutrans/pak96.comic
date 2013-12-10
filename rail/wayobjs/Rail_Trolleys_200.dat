@@ -1,0 +1,92 @@
+Obj=way-object
+waytype=track
+own_waytype=electrified_track
+Name=Rail_Trolleys_200
+copyright=VaclavMacurek
+cost=20000
+maintenance=200
+topspeed=200
+intro_year=1975
+intro_month=1
+cursor=Rail_Trolleys_200.6.1
+icon=> Rail_Trolleys_200.6.0
+# back
+# default tile
+BackImage[-]=Rail_Trolleys_200.3.4
+# track ends
+BackImage[N]=Rail_Trolleys_200.5.7
+BackImage[S]=Rail_Trolleys_200.5.6
+BackImage[E]=Rail_Trolleys_200.5.4
+BackImage[W]=Rail_Trolleys_200.5.5
+# base tiles
+BackImage[NS]=Rail_Trolleys_200.0.5
+BackImage[EW]=Rail_Trolleys_200.0.4
+# T-crossings - basic
+BackImage[NSE]=Rail_Trolleys_200.2.7
+BackImage[NSW]=Rail_Trolleys_200.2.5
+BackImage[NEW]=Rail_Trolleys_200.2.4
+BackImage[SEW]=Rail_Trolleys_200.2.6
+# T-crossings - new
+BackImage[NSE1]=Rail_Trolleys_200.2.7
+BackImage[NSE2]=Rail_Trolleys_200.2.7
+BackImage[NSW1]=Rail_Trolleys_200.2.5
+BackImage[NSW2]=Rail_Trolleys_200.2.5
+BackImage[NEW1]=Rail_Trolleys_200.2.4
+BackImage[NEW2]=Rail_Trolleys_200.2.4
+BackImage[SEW1]=Rail_Trolleys_200.2.6
+BackImage[SEW2]=Rail_Trolleys_200.2.6
+# full crossings - basic
+BackImage[NSEW]=Rail_Trolleys_200.3.5
+# full crossings - new
+BackImage[NSEW1]=Rail_Trolleys_200.3.5
+BackImage[NSEW2]=Rail_Trolleys_200.3.5
+# curves/diagonals
+BackImage[NE]=Rail_Trolleys_200.4.6
+BackImage[SE]=Rail_Trolleys_200.4.5
+BackImage[NW]=Rail_Trolleys_200.4.4
+BackImage[SW]=Rail_Trolleys_200.4.7
+# slopes
+BackImageUp[3]=Rail_Trolleys_200.1.5
+BackImageUp[6]=Rail_Trolleys_200.1.4
+BackImageUp[9]=Rail_Trolleys_200.1.6
+BackImageUp[12]=Rail_Trolleys_200.1.7
+# front
+# default tile
+FrontImage[-]=Rail_Trolleys_200.3.0
+# track ends
+FrontImage[N]=Rail_Trolleys_200.5.3
+FrontImage[S]=Rail_Trolleys_200.5.2
+FrontImage[E]=Rail_Trolleys_200.5.0
+FrontImage[W]=Rail_Trolleys_200.5.1
+# base tiles
+FrontImage[NS]=Rail_Trolleys_200.0.1
+FrontImage[EW]=Rail_Trolleys_200.0.0
+# T-crossings - basic
+FrontImage[NSE]=Rail_Trolleys_200.2.3
+FrontImage[NSW]=Rail_Trolleys_200.2.1
+FrontImage[NEW]=Rail_Trolleys_200.2.0
+FrontImage[SEW]=Rail_Trolleys_200.2.2
+# T-crossings - new
+FrontImage[NSE1]=Rail_Trolleys_200.2.3
+FrontImage[NSE2]=Rail_Trolleys_200.2.3
+FrontImage[NSW1]=Rail_Trolleys_200.2.1
+FrontImage[NSW2]=Rail_Trolleys_200.2.1
+FrontImage[NEW1]=Rail_Trolleys_200.2.0
+FrontImage[NEW2]=Rail_Trolleys_200.2.0
+FrontImage[SEW1]=Rail_Trolleys_200.2.2
+FrontImage[SEW2]=Rail_Trolleys_200.2.2
+# full crossings - basic
+FrontImage[NSEW]=Rail_Trolleys_200.3.1
+# full crossings - new
+FrontImage[NSEW1]=Rail_Trolleys_200.3.1
+FrontImage[NSEW2]=Rail_Trolleys_200.3.1
+# curves/diagonals
+FrontImage[NE]=Rail_Trolleys_200.4.2
+FrontImage[SE]=Rail_Trolleys_200.4.1
+FrontImage[NW]=Rail_Trolleys_200.4.0
+FrontImage[SW]=Rail_Trolleys_200.4.3
+# slopes
+FrontImageUp[3]=Rail_Trolleys_200.1.1
+FrontImageUp[6]=Rail_Trolleys_200.1.0
+FrontImageUp[9]=Rail_Trolleys_200.1.2
+FrontImageUp[12]=Rail_Trolleys_200.1.3
