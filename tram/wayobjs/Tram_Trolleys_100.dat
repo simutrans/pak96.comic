@@ -1,0 +1,92 @@
+Obj=way-object
+waytype=track
+own_waytype=electrified_track
+Name=Tram_Trolleys_100
+copyright=VaclavMacurek
+cost=10000
+maintenance=100
+topspeed=100
+intro_year=1950
+intro_month=1
+cursor=Tram_Trolleys_100.7.1
+icon=> Tram_Trolleys_100.7.0
+# back
+# default tile
+BackImage[-]=Tram_Trolleys_100.4.4
+# track ends
+BackImage[N]=Tram_Trolleys_100.6.7
+BackImage[S]=Tram_Trolleys_100.6.6
+BackImage[E]=Tram_Trolleys_100.6.4
+BackImage[W]=Tram_Trolleys_100.6.5
+# base tiles
+BackImage[NS]=Tram_Trolleys_100.0.5
+BackImage[EW]=Tram_Trolleys_100.0.4
+# T-crossings - basic
+BackImage[NSE]=Tram_Trolleys_100.3.7
+BackImage[NSW]=Tram_Trolleys_100.3.5
+BackImage[NEW]=Tram_Trolleys_100.3.4
+BackImage[SEW]=Tram_Trolleys_100.3.6
+# T-crossings - new
+BackImage[NSE1]=Tram_Trolleys_100.3.7
+BackImage[NSE2]=Tram_Trolleys_100.3.7
+BackImage[NSW1]=Tram_Trolleys_100.3.5
+BackImage[NSW2]=Tram_Trolleys_100.3.5
+BackImage[NEW1]=Tram_Trolleys_100.3.4
+BackImage[NEW2]=Tram_Trolleys_100.3.4
+BackImage[SEW1]=Tram_Trolleys_100.3.6
+BackImage[SEW2]=Tram_Trolleys_100.3.6
+# full crossings - basic
+BackImage[NSEW]=Tram_Trolleys_100.4.5
+# full crossings - new
+BackImage[NSEW1]=Tram_Trolleys_100.4.5
+BackImage[NSEW2]=Tram_Trolleys_100.4.5
+# curves/diagonals
+BackImage[NE]=Tram_Trolleys_100.5.6
+BackImage[SE]=Tram_Trolleys_100.5.5
+BackImage[NW]=Tram_Trolleys_100.5.4
+BackImage[SW]=Tram_Trolleys_100.5.7
+# slopes - basic
+BackImageUp[9]=Tram_Trolleys_100.1.6
+BackImageUp[12]=Tram_Trolleys_100.1.7
+BackImageUp[3]=Tram_Trolleys_100.2.7
+BackImageUp[6]=Tram_Trolleys_100.2.6
+# front
+# default tile
+FrontImage[-]=Tram_Trolleys_100.4.0
+# track ends
+FrontImage[N]=Tram_Trolleys_100.6.3
+FrontImage[S]=Tram_Trolleys_100.6.2
+FrontImage[E]=Tram_Trolleys_100.6.0
+FrontImage[W]=Tram_Trolleys_100.6.1
+# base tiles
+FrontImage[NS]=Tram_Trolleys_100.0.1
+FrontImage[EW]=Tram_Trolleys_100.0.0
+# T-crossings - basic
+FrontImage[NSE]=Tram_Trolleys_100.3.3
+FrontImage[NSW]=Tram_Trolleys_100.3.1
+FrontImage[NEW]=Tram_Trolleys_100.3.0
+FrontImage[SEW]=Tram_Trolleys_100.3.2
+# T-crossings - new
+FrontImage[NSE1]=Tram_Trolleys_100.3.3
+FrontImage[NSE2]=Tram_Trolleys_100.3.3
+FrontImage[NSW1]=Tram_Trolleys_100.3.1
+FrontImage[NSW2]=Tram_Trolleys_100.3.1
+FrontImage[NEW1]=Tram_Trolleys_100.3.0
+FrontImage[NEW2]=Tram_Trolleys_100.3.0
+FrontImage[SEW1]=Tram_Trolleys_100.3.2
+FrontImage[SEW2]=Tram_Trolleys_100.3.2
+# full crossings - basic
+FrontImage[NSEW]=Tram_Trolleys_100.4.1
+# full crossings - new
+FrontImage[NSEW1]=Tram_Trolleys_100.4.1
+FrontImage[NSEW2]=Tram_Trolleys_100.4.1
+# curves/diagonals
+FrontImage[NE]=Tram_Trolleys_100.5.2
+FrontImage[SE]=Tram_Trolleys_100.5.1
+FrontImage[NW]=Tram_Trolleys_100.5.0
+FrontImage[SW]=Tram_Trolleys_100.5.3
+# slopes - basic
+FrontImageUp[9]=Tram_Trolleys_100.1.2
+FrontImageUp[12]=Tram_Trolleys_100.1.3
+FrontImageUp[3]=Tram_Trolleys_100.2.3
+FrontImageUp[6]=Tram_Trolleys_100.2.2
