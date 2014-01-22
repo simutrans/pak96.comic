@@ -1,0 +1,141 @@
+Obj=building
+name=CrazyConstructorMonument
+copyright=VaclavMacurek
+type=mon
+intro_year=2000
+intro_month=1
+build_time=10000
+level=50
+chance=75
+animation_time=1500
+dims=1,1,1
+# letter A
+BackImage[0][0][0][0][0][0]=CrazyConstructorMonument.25.0
+BackImage[0][0][0][0][1][0]=CrazyConstructorMonument.25.1
+BackImage[0][0][0][0][2][0]=CrazyConstructorMonument.25.2
+BackImage[0][0][0][0][3][0]=CrazyConstructorMonument.25.3
+# letter B
+BackImage[0][0][0][0][4][0]=CrazyConstructorMonument.24.0
+BackImage[0][0][0][0][5][0]=CrazyConstructorMonument.24.1
+BackImage[0][0][0][0][6][0]=CrazyConstructorMonument.24.2
+BackImage[0][0][0][0][7][0]=CrazyConstructorMonument.24.3
+# letter C
+BackImage[0][0][0][0][8][0]=CrazyConstructorMonument.23.0
+BackImage[0][0][0][0][9][0]=CrazyConstructorMonument.23.1
+BackImage[0][0][0][0][10][0]=CrazyConstructorMonument.23.2
+BackImage[0][0][0][0][11][0]=CrazyConstructorMonument.23.3
+# letter D
+BackImage[0][0][0][0][12][0]=CrazyConstructorMonument.22.0
+BackImage[0][0][0][0][13][0]=CrazyConstructorMonument.22.1
+BackImage[0][0][0][0][14][0]=CrazyConstructorMonument.22.2
+BackImage[0][0][0][0][15][0]=CrazyConstructorMonument.22.3
+# letter E
+BackImage[0][0][0][0][16][0]=CrazyConstructorMonument.21.0
+BackImage[0][0][0][0][17][0]=CrazyConstructorMonument.21.1
+BackImage[0][0][0][0][18][0]=CrazyConstructorMonument.21.2
+BackImage[0][0][0][0][19][0]=CrazyConstructorMonument.21.3
+# letter F
+BackImage[0][0][0][0][20][0]=CrazyConstructorMonument.20.0
+BackImage[0][0][0][0][21][0]=CrazyConstructorMonument.20.1
+BackImage[0][0][0][0][22][0]=CrazyConstructorMonument.20.2
+BackImage[0][0][0][0][23][0]=CrazyConstructorMonument.20.3
+# letter G
+BackImage[0][0][0][0][24][0]=CrazyConstructorMonument.19.0
+BackImage[0][0][0][0][25][0]=CrazyConstructorMonument.19.1
+BackImage[0][0][0][0][26][0]=CrazyConstructorMonument.19.2
+BackImage[0][0][0][0][27][0]=CrazyConstructorMonument.19.3
+# letter H
+BackImage[0][0][0][0][28][0]=CrazyConstructorMonument.18.0
+BackImage[0][0][0][0][29][0]=CrazyConstructorMonument.18.1
+BackImage[0][0][0][0][30][0]=CrazyConstructorMonument.18.2
+BackImage[0][0][0][0][31][0]=CrazyConstructorMonument.18.3
+# letter I
+BackImage[0][0][0][0][32][0]=CrazyConstructorMonument.17.0
+BackImage[0][0][0][0][33][0]=CrazyConstructorMonument.17.1
+BackImage[0][0][0][0][34][0]=CrazyConstructorMonument.17.2
+BackImage[0][0][0][0][35][0]=CrazyConstructorMonument.17.3
+# letter J
+BackImage[0][0][0][0][36][0]=CrazyConstructorMonument.16.0
+BackImage[0][0][0][0][37][0]=CrazyConstructorMonument.16.1
+BackImage[0][0][0][0][38][0]=CrazyConstructorMonument.16.2
+BackImage[0][0][0][0][39][0]=CrazyConstructorMonument.16.3
+# letter K
+BackImage[0][0][0][0][40][0]=CrazyConstructorMonument.15.0
+BackImage[0][0][0][0][41][0]=CrazyConstructorMonument.15.1
+BackImage[0][0][0][0][42][0]=CrazyConstructorMonument.15.2
+BackImage[0][0][0][0][43][0]=CrazyConstructorMonument.15.3
+# letter L
+BackImage[0][0][0][0][44][0]=CrazyConstructorMonument.14.0
+BackImage[0][0][0][0][45][0]=CrazyConstructorMonument.14.1
+BackImage[0][0][0][0][46][0]=CrazyConstructorMonument.14.2
+BackImage[0][0][0][0][47][0]=CrazyConstructorMonument.14.3
+# letter M
+BackImage[0][0][0][0][48][0]=CrazyConstructorMonument.13.0
+BackImage[0][0][0][0][49][0]=CrazyConstructorMonument.13.1
+BackImage[0][0][0][0][50][0]=CrazyConstructorMonument.13.2
+BackImage[0][0][0][0][51][0]=CrazyConstructorMonument.13.3
+# letter N
+BackImage[0][0][0][0][52][0]=CrazyConstructorMonument.12.0
+BackImage[0][0][0][0][53][0]=CrazyConstructorMonument.12.1
+BackImage[0][0][0][0][54][0]=CrazyConstructorMonument.12.2
+BackImage[0][0][0][0][55][0]=CrazyConstructorMonument.12.3
+# letter O
+BackImage[0][0][0][0][56][0]=CrazyConstructorMonument.11.0
+BackImage[0][0][0][0][57][0]=CrazyConstructorMonument.11.1
+BackImage[0][0][0][0][58][0]=CrazyConstructorMonument.11.2
+BackImage[0][0][0][0][59][0]=CrazyConstructorMonument.11.3
+# letter P
+BackImage[0][0][0][0][60][0]=CrazyConstructorMonument.10.0
+BackImage[0][0][0][0][61][0]=CrazyConstructorMonument.10.1
+BackImage[0][0][0][0][62][0]=CrazyConstructorMonument.10.2
+BackImage[0][0][0][0][63][0]=CrazyConstructorMonument.10.3
+# letter Q
+BackImage[0][0][0][0][64][0]=CrazyConstructorMonument.9.0
+BackImage[0][0][0][0][65][0]=CrazyConstructorMonument.9.1
+BackImage[0][0][0][0][66][0]=CrazyConstructorMonument.9.2
+BackImage[0][0][0][0][67][0]=CrazyConstructorMonument.9.3
+# letter R
+BackImage[0][0][0][0][68][0]=CrazyConstructorMonument.8.0
+BackImage[0][0][0][0][69][0]=CrazyConstructorMonument.8.1
+BackImage[0][0][0][0][70][0]=CrazyConstructorMonument.8.2
+BackImage[0][0][0][0][71][0]=CrazyConstructorMonument.8.3
+# letter S
+BackImage[0][0][0][0][72][0]=CrazyConstructorMonument.7.0
+BackImage[0][0][0][0][73][0]=CrazyConstructorMonument.7.1
+BackImage[0][0][0][0][74][0]=CrazyConstructorMonument.7.2
+BackImage[0][0][0][0][75][0]=CrazyConstructorMonument.7.3
+# letter T
+BackImage[0][0][0][0][76][0]=CrazyConstructorMonument.6.0
+BackImage[0][0][0][0][77][0]=CrazyConstructorMonument.6.1
+BackImage[0][0][0][0][78][0]=CrazyConstructorMonument.6.2
+BackImage[0][0][0][0][79][0]=CrazyConstructorMonument.6.3
+# letter U
+BackImage[0][0][0][0][80][0]=CrazyConstructorMonument.5.0
+BackImage[0][0][0][0][81][0]=CrazyConstructorMonument.5.1
+BackImage[0][0][0][0][82][0]=CrazyConstructorMonument.5.2
+BackImage[0][0][0][0][83][0]=CrazyConstructorMonument.5.3
+# letter V
+BackImage[0][0][0][0][84][0]=CrazyConstructorMonument.4.0
+BackImage[0][0][0][0][85][0]=CrazyConstructorMonument.4.1
+BackImage[0][0][0][0][86][0]=CrazyConstructorMonument.4.2
+BackImage[0][0][0][0][87][0]=CrazyConstructorMonument.4.3
+# letter W
+BackImage[0][0][0][0][88][0]=CrazyConstructorMonument.3.0
+BackImage[0][0][0][0][89][0]=CrazyConstructorMonument.3.1
+BackImage[0][0][0][0][90][0]=CrazyConstructorMonument.3.2
+BackImage[0][0][0][0][91][0]=CrazyConstructorMonument.3.3
+# letter X
+BackImage[0][0][0][0][92][0]=CrazyConstructorMonument.2.0
+BackImage[0][0][0][0][93][0]=CrazyConstructorMonument.2.1
+BackImage[0][0][0][0][94][0]=CrazyConstructorMonument.2.2
+BackImage[0][0][0][0][95][0]=CrazyConstructorMonument.2.3
+# letter Y
+BackImage[0][0][0][0][96][0]=CrazyConstructorMonument.1.0
+BackImage[0][0][0][0][97][0]=CrazyConstructorMonument.1.1
+BackImage[0][0][0][0][98][0]=CrazyConstructorMonument.1.2
+BackImage[0][0][0][0][99][0]=CrazyConstructorMonument.1.3
+# letter Z
+BackImage[0][0][0][0][100][0]=CrazyConstructorMonument.0.0
+BackImage[0][0][0][0][101][0]=CrazyConstructorMonument.0.1
+BackImage[0][0][0][0][102][0]=CrazyConstructorMonument.0.2
+BackImage[0][0][0][0][103][0]=CrazyConstructorMonument.0.3
